@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=bani69&label=Profile%20views&color=0e75b6&style=flat" alt="bani69" />
 </p>
 
-<p align="center">💻 Frontend Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</p>
+<p align="center">💻 Frontend Developer  | 🌱 Lifelong Learner</p>
 
 ---
 
