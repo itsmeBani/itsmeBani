@@ -33,8 +33,8 @@
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
   </a>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/74774345?s=200&v=4" alt="tanstack" width="40" height="40"/>
+  <a href="https://tanstack.com" target="_blank" rel="noreferrer">
+    <img src="https://tanstack.com/assets/splash-dark-8nwlc0Nt.png" alt="tanstack" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
