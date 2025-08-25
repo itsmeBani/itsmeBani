@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🚀 Passionate about building modern, scalable, and user-friendly apps.  
+- 🚀 Passionate about building modern,  and user-friendly apps.  
 - 🔭 Currently working with **React (TS)**, **React Native**, **Supabase/Firebase**, and **Shadcn UI**.  
 - 🌍 Portfolio: [bani101.vercel.app](https://bani101.vercel.app/)  
 - 📫 Reach me at **fabrojiovani1@gmail.com**  
