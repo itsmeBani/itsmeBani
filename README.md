@@ -3,13 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=bani69&label=Profile%20views&color=0e75b6&style=flat" alt="bani69" />
 </p>
 
-<p align="center">💻 Frontend Developer  | 🌱 Lifelong Learner</p>
+<p align="center">💻 Frontend Developer  
 
 ---
 
 ### 🧠 About Me
 - 🔭 I’m currently building projects using **React ts**, **Firebase**, and **TailwindCSS**
-- ⚡ Passionate about clean code, intuitive UI/UX, and real-time web apps
 - 📫 Reach me at **fabrojiovani1@gmail.com**
 
 ---
