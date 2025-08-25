@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently building projects using **React ts**, **Firebase**, and **TailwindCSS**
+- 🔭 I’m currently building projects using **React ts**, **supabase/firebase** , and **Shadcn ui** 
 - 📫 Reach me at **fabrojiovani1@gmail.com**
 
 ---
