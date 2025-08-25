@@ -8,8 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently building projects using **React.js**, **Firebase**, and **TailwindCSS**
-- 🌱 Learning **TypeScript**, **Supabase**, and modern UI libraries like **shadcn/ui**
+- 🔭 I’m currently building projects using **React ts**, **Firebase**, and **TailwindCSS**
 - ⚡ Passionate about clean code, intuitive UI/UX, and real-time web apps
 - 📫 Reach me at **fabrojiovani1@gmail.com**
 
