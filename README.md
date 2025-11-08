@@ -25,9 +25,17 @@
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,reactnative,tailwind,firebase,supabase,vercel,github,vscode" />
-  <img src="https://tanstack.com/assets/splash-dark-8nwlc0Nt.png" alt="tanstack" width="48" height="48" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="48" height="48"/>
+  <!-- skillicons for major tools -->
+  <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,firebase,supabase,vercel,github,vscode" />
+
+  <!-- React Native icon (custom SVG) -->
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="48" height="48"/>
+
+  <!-- TanStack Query icon (official favicon) -->
+  <img src="https://tanstack.com/assets/splash-dark-8nwlc0Nt.png" alt="TanStack Query" width="48" height="48"/>
+
+  <!-- Shadcn/UI icon -->
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Shadcn UI" width="48" height="48"/>
 </p>
 
 ---
@@ -35,12 +43,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bani69&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bani69&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeBani&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeBani&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bani69&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeBani&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
