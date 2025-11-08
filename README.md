@@ -32,7 +32,7 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="48" height="48"/>
 
   <!-- TanStack Query icon (official favicon) -->
-  <img src="https://tanstack.com/assets/splash-dark-8nwlc0Nt.png" alt="TanStack Query" width="48" height="48"/>
+  <img src="https://tanstack.com/images/logos/splash-dark.png" alt="TanStack Query" width="48" height="48"/>
 
   <!-- Shadcn/UI icon -->
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Shadcn UI" width="48" height="48"/>
