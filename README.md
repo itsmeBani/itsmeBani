@@ -8,7 +8,7 @@
   <a href="mailto:fabrojiovani1@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=bani69&label=Profile+Views&color=00BFFF&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itsmeBani&label=Profile+Views&color=00BFFF&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
