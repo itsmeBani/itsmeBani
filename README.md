@@ -1,57 +1,64 @@
-<h1 align="center">Hi 👋, I'm Bani</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Bani</span></h1>
 <h3 align="center">💻 Frontend Developer | React & React Native Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bani69&label=Profile%20views&color=0e75b6&style=flat" alt="bani69" />
+  <a href="https://bani101.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300BFFF.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:fabrojiovani1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bani69&label=Profile+Views&color=00BFFF&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🚀 Passionate about building modern, scalable, and user-friendly apps.  
-- 🔭 Currently working with **React (TS)**, **React Native**, **Supabase/Firebase**, **TanStack/React Query**, and **Shadcn UI**.  
-- 🌍 Portfolio: [bani101.vercel.app](https://bani101.vercel.app/)  
-- 📫 Reach me at **fabrojiovani1@gmail.com**  
+## 🚀 About Me
+
+- 🌱 Currently crafting experiences with **React (TS)**, **React Native**, **Supabase**, **Firebase**, **TanStack Query**, and **Shadcn/UI**.  
+- 🎯 Focused on **building clean, scalable, and responsive user interfaces**.  
+- 💡 Passionate about hybrid apps, real-time data, and elegant UI/UX.  
+- 🧩 Exploring new ways to blend **web + mobile** development.  
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://tanstack.com" target="_blank" rel="noreferrer">
-    <img src="https://tanstack.com/assets/splash-dark-8nwlc0Nt.png" alt="tanstack" width="40" height="40"/>
-  </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=typescript,react,reactnative,tailwind,firebase,supabase,vercel,github,vscode" />
+  <img src="https://tanstack.com/assets/splash-dark-8nwlc0Nt.png" alt="tanstack" width="48" height="48" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="48" height="48"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bani69&show_icons=true&theme=radical" alt="bani69 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bani69&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bani69&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bani69&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bani69&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🌐 Connect with Me  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bani69&theme=radical" alt="GitHub Streak" />
+  <a href="https://bani101.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300BFFF.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:fabrojiovani1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/bani69" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+⭐ **"Code. Create. Iterate. Repeat."**
